@@ -31,9 +31,10 @@ In the next few minutes, I was having the corner with an evil nightmare of a dat
 
 So I need to remove lots of images from the given data set. 
 
-I have removed images which were out of focus. Some images with incomplete label information.
-There were some images which did not have lanes or having very small regions, which creates a lot of class imbalance. So I removed that too.   
-In some images there are a lot of portions from the dashboard that are visible more as compared to road, so I have removed that too.
+- I have removed images which were out of focus. 
+- Some images with incomplete label information.
+- There were some images which did not have lanes or having very small regions, which creates a lot of class imbalance. So I removed that too.   
+- In some images there are a lot of portions from the dashboard that are visible more as compared to road, so I have removed that too.
 
 So we are good now. I have again trained a classifier; wait two classifiers. And both of them failed me again. This is it!. I quit.
 
