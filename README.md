@@ -77,7 +77,10 @@ To measure the performance of segmentation algorithms, pixel based accuracy is t
 
 To improve the  network performance further we can use some Batch normalization layer in the architecture and can train the network for the longer duration. But for the time being I think I have got some results for you.
 
-
+Images | Ground Truth | Predition
+------------ | ------------- | ------------- 
+![image_1](/images/1.png) | ![image_1](/images/1_gt.png)| ![image_1](/images/1_out.png)
+Content in the first column | Content in the second column |
 
 
 
