@@ -79,8 +79,10 @@ To improve the  network performance further we can use some Batch normalization 
 
 Images | Ground Truth | Predition
 ------------ | ------------- | ------------- 
-![image_1](/images/1.png) | ![image_1](/images/1_gt.png)| ![image_1](/images/1_out.png)
-Content in the first column | Content in the second column |
+![image_1](/images/1.png) | ![image_1](/images/1_gt.png)| ![image_1](/images/1_predict.png)
+![image_1](/images/4.png) | ![image_1](/images/4_gt.png)| ![image_1](/images/4_predict.png)
+![image_1](/images/5.png) | ![image_1](/images/5_gt.png)| ![image_1](/images/5_predict.png)
+![image_1](/images/6.png) | ![image_1](/images/6_gt.png)| ![image_1](/images/6_predict.png)
 
 
 
